@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\U7\U7\bin\Debug\U7.exe.config
+C:\Users\User\source\repos\U7\U7\bin\Debug\U7.exe
+C:\Users\User\source\repos\U7\U7\bin\Debug\U7.pdb
+C:\Users\User\source\repos\U7\U7\obj\Debug\U7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\U7\U7\obj\Debug\U7.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\U7\U7\obj\Debug\U7.Form1.resources
+C:\Users\User\source\repos\U7\U7\obj\Debug\U7.Properties.Resources.resources
+C:\Users\User\source\repos\U7\U7\obj\Debug\U7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\U7\U7\obj\Debug\U7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\U7\U7\obj\Debug\U7.exe
+C:\Users\User\source\repos\U7\U7\obj\Debug\U7.pdb
